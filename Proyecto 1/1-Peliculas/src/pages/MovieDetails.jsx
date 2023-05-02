@@ -35,6 +35,7 @@ export function MovieDetails(){
                 <strong>Descripcion: </strong>
                 {movie.overview}
             </p>
+            <button className="volver"><a href="/" >Volver</a></button>
         </div>
     </div>)
 }

@@ -24,6 +24,25 @@
     font-size: 1.5rem
 }
 
+.volver {
+    display: flex;
+    margin:auto;
+    background-color: #111;
+    border: none;
+}
+
+.volver a {
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #9F91FE;
+    margin-top: 15px
+}
+
+.volver a:hover {
+    color: #806ef3;
+}
+
 @media (min-width: 768px) {
 
 }
